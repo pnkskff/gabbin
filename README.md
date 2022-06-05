@@ -10,11 +10,16 @@ II. NOTES:
 
   1. Built with HTML/CSS/JS/API.
   2. gabbin API's: 
+
      a. Kanye West's Kanye Best - https://api.kanye.rest/
+     
      b. Excuses - https://excuser.herokuapp.com/v1/excuse
+     
      c. Fun Facts - https://api.aakhilv.me/fun/facts
      // 6-5-22: Fun Facts API has gone offline, need to find new API to replace.
+     
      d. Corporate Words - https://corporatebs-generator.sameerkumar.website/
+     
      e. Tech Words - https://techy-api.vercel.app/api/json
 
 III. OPTIMIZATION:
