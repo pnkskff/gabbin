@@ -16,7 +16,8 @@ II. NOTES:
      b. Excuses - https://excuser.herokuapp.com/v1/excuse
      
      c. Fun Facts - https://api.aakhilv.me/fun/facts
-     // 6-5-22: Fun Facts API has gone offline, need to find new API to replace.
+     
+        // 6-5-22: Fun Facts API has gone offline, need to find new API to replace.
      
      d. Corporate Words - https://corporatebs-generator.sameerkumar.website/
      
