@@ -42,5 +42,5 @@ III. OPTIMIZATION:
      g. User with most Points win
      
   2. Add a Form so Players can create Credentials.  
-  3. Link with Server to keep User and Score info.
+  3. Link with Server to keep and serve User and Score info.
 
