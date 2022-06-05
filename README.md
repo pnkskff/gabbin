@@ -25,13 +25,21 @@ II. NOTES:
 III. OPTIMIZATION:
 
   1. Cards Against Humanity functionality -
+  
      a. Add a User Input
+     
      b. User logs a Question
+     
      c. User clicks on 1 of the 5 "Persons"
+     
      d. API replies
+     
      e. Players vote if Reply is Humourous, Scale of 5
+     
      f. After 10 Rounds, Score is computed by summing of the Humour Scale
-     f. User with most Points win
+     
+     g. User with most Points win
+     
   2. Add a Form so Players can create Credentials.  
   3. Link with Server to keep User and Score info.
 
