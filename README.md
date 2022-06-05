@@ -2,13 +2,16 @@
 
 I. INTRO:
 
-gabbin Site: https://gabbin.netlify.app/
+  1. gabbin Site: https://gabbin.netlify.app/
 
-This is an App to draw a Random Quote from multiple Quote API's - Essentially, pick the person you want to be for that day.
+  2. This is an App to draw a Random Quote from multiple Quote API's, App then displays: 
+  
+     a. A random Quote from each Personality Type. 
 
 II. NOTES:
 
   1. Built with HTML/CSS/JS/API.
+  
   2. gabbin API's: 
 
      a. Kanye West's Kanye Best - https://api.kanye.rest/
@@ -22,6 +25,8 @@ II. NOTES:
      d. Corporate Words - https://corporatebs-generator.sameerkumar.website/
      
      e. Tech Words - https://techy-api.vercel.app/api/json
+   
+  3. As a Freelance Website and Web App Developer, I was able to license this App to a Life Coach for 12 months use.
 
 III. OPTIMIZATION:
 
@@ -42,5 +47,21 @@ III. OPTIMIZATION:
      g. User with most Points win
      
   2. Add a Form so Players can create Credentials.  
+  
   3. Link with Server to keep and serve User and Score info.
+
+IV: FURTHER INFO:
+
+  1. Readme last updated on: JUNE 2022
+
+  2. Authors:
+
+     a. pnkskff
+     
+     https://github.com/pnkskff
+     
+     https://drincapdev.netlify.app/
+     
+     https://drincapapps.netlify.app/
+
 
