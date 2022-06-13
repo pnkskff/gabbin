@@ -46,7 +46,9 @@ III. OPTIMIZATION:
      
      g. User with most Points win
      
-  2. Add a Form so Players can create Credentials.  
+  2. Add a Form so Players can create User and PW Credentials.  
+
+     a. Limit to 3-5 Players.
   
   3. Link with Server to keep and serve User and Score info.
 
